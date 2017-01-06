@@ -1,0 +1,18 @@
+body
+{
+  background: #e3e3e3;
+}
+.align
+{
+  width:600px;
+  margin: auto;
+}
+blockquote
+{
+  border: 1px solid white;
+  margin-left: auto;
+}
+p
+{
+  text-align: center;
+}
